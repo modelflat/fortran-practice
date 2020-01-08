@@ -1,6 +1,8 @@
 program task1
 
     ! 1.1 Use some constants
+    integer(4) z
+    parameter (z = 123)
     integer(8) :: answer = (42)
     integer(8) :: many_answers(5)
     real(8) :: answer_double = (42.0)

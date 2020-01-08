@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+
+task
+task?
+
+other
+
+*.mod
+*.dat
+
+main
+Source0.F90
+
